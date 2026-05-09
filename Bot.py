@@ -1288,4 +1288,4 @@ def all_messages(message):
 
 print("Бот запущен")
 
-bot.infinity_polling(skip_pending=True
+bot.infinity_polling(skip_pending=True)
