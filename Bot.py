@@ -1,6 +1,5 @@
-from flask import Flask
-from threading import Thread
-import os
+import telebot
+from telebot import types
 
 TOKEN = "8514273761:AAH3YeenOrWomYPUZve9NadLfwLB1py9P18"
 ADMIN_ID = 8504692404
